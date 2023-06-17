@@ -1,0 +1,1 @@
+var json_Kasus_5 = {"type":"FeatureCollection","name":"Kasus_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"OBJECTID":"1","Id":0.0},"geometry":{"type":"Point","coordinates":[114.617821026911699,-3.319672784438958]}}]}
